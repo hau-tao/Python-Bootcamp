@@ -9,3 +9,11 @@ Did some mini projects:
 * Memory
 * BlackJack
 * Spaceship
+## Python for Everybody Specialization
+* Introduction
+* Data Structure
+* Access Web Data
+* Database
+* Capstone : Capstone: Retrieving, Processing, and Visualizing Data with Python (not done)
+
+
