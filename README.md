@@ -10,6 +10,7 @@ Did some mini projects:
 * BlackJack
 * Spaceship
 ## Python for Everybody Specialization
+https://www.coursera.org/specializations/python
 * Introduction
 * Data Structure
 * Access Web Data
