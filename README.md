@@ -1,5 +1,5 @@
 ## Interactive Programming course
-
+#### Open the Interactive Programming Folder and put the code on the link below 
 Programs work well at web page : http://www.codeskulptor.org/
 Did some mini projects:
 * Rock-paper-scissors-lizard-Spock
