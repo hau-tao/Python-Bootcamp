@@ -9,7 +9,7 @@ Did some mini projects:
 * Memory
 
 ![alt text](
-https://github.com/hau-tao/Python-Bootcamp/blob/master/Memory.JPG"memory")
+https://github.com/hau-tao/Python-Bootcamp/blob/master/Memory.JPG "memory")
 * BlackJack
 
 
