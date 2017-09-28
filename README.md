@@ -6,6 +6,8 @@ Did some mini projects:
 * "Guess the Number!"
 * Stopwatch: The Game
 * Pong
+![alt text]
+(https://github.com/hau-tao/Python-Bootcamp/blob/master/pong.JPG "pong")
 * Memory
 
 ![alt text](
