@@ -9,8 +9,10 @@ Did some mini projects:
 * Memory
 * BlackJack
 * Spaceship
+![alt text](
+https://github.com/hau-tao/Python-Bootcamp/blob/master/Spaceship.JPG "spaceship")
 * Ricerocks
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/hau-tao/Python-Bootcamp/blob/master/RiceRocks.JPG "RiceRocks")
 ## Python for Everybody Specialization
 https://www.coursera.org/specializations/python
 * Introduction
