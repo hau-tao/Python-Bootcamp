@@ -6,7 +6,7 @@ Did some mini projects:
 * "Guess the Number!"
 * Stopwatch: The Game
 ![alt text](
-https://https://github.com/hau-tao/Python-Bootcamp/blob/master/stopwatch..JPG "pong")
+https://github.com/hau-tao/Python-Bootcamp/blob/master/stopwatch.JPG "stopwatch")
 
 * Pong
 
