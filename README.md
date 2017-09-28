@@ -8,6 +8,9 @@ Did some mini projects:
 * Pong
 * Memory
 * BlackJack
+
+
+![alt text](https://github.com/hau-tao/Python-Bootcamp/blob/master/BlackJack.JPG "blackjack")
 * Spaceship
 ![alt text](
 https://github.com/hau-tao/Python-Bootcamp/blob/master/Spaceship.JPG "spaceship")
