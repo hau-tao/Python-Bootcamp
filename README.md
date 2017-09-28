@@ -5,6 +5,9 @@ Did some mini projects:
 * Rock-paper-scissors-lizard-Spock
 * "Guess the Number!"
 * Stopwatch: The Game
+![alt text](
+https://https://github.com/hau-tao/Python-Bootcamp/blob/master/stopwatch..JPG "pong")
+
 * Pong
 
 
