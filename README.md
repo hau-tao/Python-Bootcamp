@@ -7,10 +7,12 @@ Did some mini projects:
 * Stopwatch: The Game
 * Pong
 * Memory
+
+![alt text](
+https://github.com/hau-tao/Python-Bootcamp/blob/master/Memory.JPG"memory")
 * BlackJack
 
 
-![alt text](https://github.com/hau-tao/Python-Bootcamp/blob/master/BlackJack.JPG "blackjack")
 * Spaceship
 ![alt text](
 https://github.com/hau-tao/Python-Bootcamp/blob/master/Spaceship.JPG "spaceship")
